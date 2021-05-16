@@ -1,5 +1,5 @@
 # houseprediction
-https://www.kaggle.com/dhirajnirne/california-housing-data
+Kaggle Data: https://www.kaggle.com/dhirajnirne/california-housing-data
 
 1. null value
 null value > 95% reject
@@ -28,4 +28,5 @@ other indipendent variable
 6. OLS Table
 From stat model
 
+Another Solution by some website: https://androidkt.com/how-to-normalize-scale-standardize-pandas-dataframe-columns-using-scikit-learn/#:~:text=Standardize%20generally%20means%20changing%20the,close%20to%20a%20normal%20distribution.&text=StandardScaler%20standardizes%20a%20feature%20by,then%20scaling%20to%20unit%20variance.
 
