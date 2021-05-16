@@ -1,4 +1,6 @@
 # houseprediction
+https://www.kaggle.com/dhirajnirne/california-housing-data
+
 1. null value
 null value > 95% reject
 null value > 95% but imporatant || < 95% =>  replace ith fabricated value
